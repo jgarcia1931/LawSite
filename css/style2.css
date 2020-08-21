@@ -65,7 +65,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    border: blue solid 4px;
+    /*border: blue solid 4px;*/
 }
 
 #bannerRow {
@@ -73,7 +73,9 @@ body{
     padding: 0;
     padding-left: 0;
     padding-right: 0;
-    border: red solid 2px;
+    /*border: red solid 2px;*/
+    box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.15);
+
 }
 
 #profileDiv {
