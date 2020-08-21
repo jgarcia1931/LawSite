@@ -110,7 +110,7 @@
                 <div class="row justify-content-center">
                     <div class="col-12 col-md-10">
                         <div class="contact_from wow fadeInDown" data-wow-delay="1.5s" style="visibility: visible; animation-delay: 1.5s; animation-name: fadeInDown;">
-                            <form action="mail.php" method="post" id="main_contact_form">
+                            <form name="contact" method="POST" data-netlify="true" id="main_contact_form">
 
                                 <div class="contact_input_area">
                                     <div id="success_fail_info"></div>
@@ -148,6 +148,9 @@
 
                                         <div class="col-12 text-center">
                                             <button type="submit" class="btn btn-outline-dark">Send Message</button>
+                                        </div>
+                                        <div class="col-12 text-center field">
+                                            <div data-netlify-recaptcha="true"></div>
                                         </div>
                                     </div>
                                 </div>

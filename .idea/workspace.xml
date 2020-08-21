@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e75bf30b-2c87-43fc-b764-187d14aa91fc" name="Default Changelist" comment="view port">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style2.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style2.css" afterDir="false" />
+    <list default="true" id="e75bf30b-2c87-43fc-b764-187d14aa91fc" name="Default Changelist" comment="fixed responsiveness">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -100,7 +98,7 @@
       <workItem from="1597614066853" duration="3563000" />
       <workItem from="1597635432897" duration="22601000" />
       <workItem from="1597977859621" duration="6381000" />
-      <workItem from="1598019992157" duration="1458000" />
+      <workItem from="1598019992157" duration="1882000" />
     </task>
     <task id="LOCAL-00001" summary="added form">
       <created>1597984069686</created>
@@ -123,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598020067307</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fixed responsiveness">
+      <created>1598022673530</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1598022673530</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,7 +148,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added form" />
     <MESSAGE value="view port" />
-    <option name="LAST_COMMIT_MESSAGE" value="view port" />
+    <MESSAGE value="fixed responsiveness" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed responsiveness" />
   </component>
   <component name="WindowStateProjectService">
     <state x="274" y="72" key="#Inspections" timestamp="1597015412761">
@@ -259,10 +265,10 @@
     <state width="1238" height="159" key="GridCell.Tab.2.right/0.23.1280.709@0.23.1280.709" timestamp="1597970178338" />
     <state width="1238" height="154" key="GridCell.Tab.2.right/0.23.1280.728@0.23.1280.728" timestamp="1597031745621" />
     <state width="1238" height="154" key="GridCell.Tab.2.right/0.23.1280.777@0.23.1280.777" timestamp="1597368403667" />
-    <state x="1840" y="291" key="Vcs.Push.Dialog.v2" timestamp="1598020074863">
+    <state x="1840" y="291" key="Vcs.Push.Dialog.v2" timestamp="1598022690581">
       <screen x="1280" y="23" width="1920" height="1057" />
     </state>
-    <state x="1840" y="291" key="Vcs.Push.Dialog.v2/0.23.1280.709/1280.23.1920.1057@1280.23.1920.1057" timestamp="1598020074863" />
+    <state x="1840" y="291" key="Vcs.Push.Dialog.v2/0.23.1280.709/1280.23.1920.1057@1280.23.1920.1057" timestamp="1598022690581" />
     <state x="100" y="87" width="1080" height="678" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1597641078281">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
