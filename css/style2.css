@@ -195,13 +195,13 @@ body{
 }
 
 /* already defined in bootstrap4 */
- .capdiv {
-     text-align: center;
- }
+/* .capdiv {*/
+/*     text-align: center;*/
+/* }*/
 
-.g-recaptcha {
-    display: inline-block;
-}
+/*.g-recaptcha {*/
+/*    display: inline-block;*/
+/*}*/
 
 
 /*#carouselExampleInterval {*/
