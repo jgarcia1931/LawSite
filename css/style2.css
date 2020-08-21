@@ -18,7 +18,7 @@ body{
 
 .navbar{
     border-bottom: 2px solid purple;
-    /*max-width: 992px;*/
+    max-width: 992px;
     margin-left: 10%;
     margin-right: 10%;
     padding: 0;
@@ -56,14 +56,16 @@ body{
     margin-top: 55px !important;
     /*max-width: 992px !important;*/
     height: 50%;
-    margin-left: 10%;
-    margin-right: 10%;
+    width: 100%;
+    max-width: 992px;
+    /*margin-left: 10%;*/
+    /*margin-right: 10%;*/
     padding-top: 10px;
     padding-bottom: 10px;
     display: flex;
     align-items: center;
     justify-content: center;
-    /*border: blue solid 4px;*/
+    border: blue solid 4px;
 }
 
 #bannerRow {
@@ -71,13 +73,14 @@ body{
     padding: 0;
     padding-left: 0;
     padding-right: 0;
-    /*border: red solid 2px;*/
+    border: red solid 2px;
 }
 
 #profileDiv {
     display: flex;
     align-items: center;
     justify-content: center;
+    padding: 10px;
 }
 
 #profile {
@@ -97,11 +100,6 @@ body{
     backdrop-filter: grayscale(100%);
 }
 
-
-
-
-
-
 /*!* Cursor *!*/
 /*.txt-type > .txt {*/
 /*    border-right: 0.2rem solid #777;*/
@@ -112,10 +110,6 @@ body{
     font-weight: 600;
     border-bottom: 1px solid purple;
 }
-
-
-
-
 
 /*#services {*/
 /*    padding-top: 5px;*/
