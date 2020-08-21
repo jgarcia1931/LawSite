@@ -22,7 +22,7 @@ body{
     margin-left: 10%;
     margin-right: 10%;
     padding: 0;
-    background-color: rgba(255,255,255,0.8);
+    /*background-color: rgba(255,255,255,0.8);*/
 }
 
 .navbar a {
@@ -123,7 +123,8 @@ body{
 
 .blur{
     /*backdrop-filter: blur(8px) grayscale(100%) !important;*/
-    backdrop-filter: blur(8px) contrast(50%);
+    /*backdrop-filter: blur(8px) contrast(50%);*/
+    backdrop-filter: blur(8px);
     z-index: 2;
 }
 
